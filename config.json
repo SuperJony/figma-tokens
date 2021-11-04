@@ -1,0 +1,14 @@
+{
+  "source": ["tokens/**/*.json"],
+  "platforms": {
+    "flutter": {
+      "transformGroup": "flutter",
+      "files": [
+        {
+          "destination": "flutter/variables.dart",
+          "format": "flutter/class.dart"
+        }
+      ]
+    }
+  }
+}
