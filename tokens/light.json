@@ -49,7 +49,7 @@
   },
   "background": {
     "elevation-0": {
-      "value": "#f1ede9",
+      "value": "#f5f0e9",
       "type": "color"
     },
     "elevation-1": {
@@ -57,19 +57,19 @@
       "type": "color"
     },
     "elevation-2": {
-      "value": "#fdfbf9",
+      "value": "#fffbf7",
       "type": "color"
     },
     "elevation-3": {
-      "value": "#d6d3d1",
+      "value": "#cbc6bd",
       "type": "color"
     },
     "inverse-elevation-1": {
-      "value": "#1f1e1e",
+      "value": "#1d1b16",
       "type": "color"
     },
     "primary": {
-      "value": "#f4511e",
+      "value": "#fe5825",
       "type": "color"
     },
     "secondary": {
@@ -104,7 +104,7 @@
     }
   },
   "overlay": {
-    "primary": {
+    "primary-base": {
       "value": "#f4511ecc",
       "type": "color"
     },
