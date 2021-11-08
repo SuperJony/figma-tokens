@@ -73,67 +73,67 @@
       "type": "color"
     },
     "secondary": {
-      "value": "#00c19f",
+      "value": "#21c1a0",
       "type": "color"
     },
     "tertiary": {
-      "value": "#7847d6",
+      "value": "#703ece",
       "type": "color"
     },
     "stateDisabled": {
-      "value": "#e5e2df",
+      "value": "#e7e2d9",
       "type": "color"
     }
   },
   "border": {
     "transparent": {
-      "value": "#00000014",
+      "value": "#0000001c",
       "type": "color"
     },
     "transparent-inverse": {
-      "value": "#000000e0",
+      "value": "#000000e3",
       "type": "color"
     },
     "opaque": {
-      "value": "#f1ede9",
+      "value": "#e7e2d9",
       "type": "color"
     },
     "opaque-alternate": {
-      "value": "#dbcec6",
+      "value": "#d8c2bc",
       "type": "color"
     }
   },
   "overlay": {
     "primary-base": {
-      "value": "#f4511ecc",
+      "value": "#fe5825cc",
       "type": "color"
     },
     "primary-darker": {
-      "value": "#bf360ccc",
+      "value": "#b22c00cc",
       "type": "color"
     },
-    "secondary": {
-      "value": "#00c19fcc",
+    "secondary-base": {
+      "value": "#21c1a0cc",
       "type": "color"
     },
     "secondary-darker": {
-      "value": "#00997dcc",
+      "value": "#00876dcc",
       "type": "color"
     },
-    "tertiary": {
-      "value": "#7847d6cc",
+    "tertiary-base": {
+      "value": "#703ececc",
       "type": "color"
     },
     "tertiary-darker": {
-      "value": "#5721bfcc",
+      "value": "#3d0090cc",
       "type": "color"
     },
     "lightest": {
-      "value": "#0000000a",
+      "value": "#00000014",
       "type": "color"
     },
     "lighter": {
-      "value": "#0000001f",
+      "value": "#00000029",
       "type": "color"
     },
     "base": {
@@ -141,11 +141,11 @@
       "type": "color"
     },
     "darker": {
-      "value": "#00000085",
+      "value": "#0000008f",
       "type": "color"
     },
     "darkest": {
-      "value": "#000000c2",
+      "value": "#000000cc",
       "type": "color"
     },
     "inverse-lightest": {
@@ -172,7 +172,7 @@
   "nonadaptable": {
     "content": {
       "high": {
-        "value": "#000000e0",
+        "value": "#000000e3",
         "type": "color"
       },
       "inverse-high": {
@@ -183,7 +183,7 @@
   },
   "extension": {
     "scrim": {
-      "value": "#0000008a",
+      "value": "#0000008f",
       "type": "color"
     }
   }
