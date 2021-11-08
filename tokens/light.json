@@ -86,11 +86,11 @@
     }
   },
   "border": {
-    "transparent": {
+    "transparent-lightest": {
       "value": "#0000001c",
       "type": "color"
     },
-    "transparent-inverse": {
+    "transparent-darkest": {
       "value": "#000000e3",
       "type": "color"
     },
