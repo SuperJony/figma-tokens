@@ -107,6 +107,60 @@
       "type": "color"
     }
   },
+  "neutral-inverse-transparent": {
+    "0": {
+      "value": "#ffffff00",
+      "type": "color"
+    },
+    "10": {
+      "value": "#ffffff05",
+      "type": "color"
+    },
+    "20": {
+      "value": "#ffffff14",
+      "type": "color"
+    },
+    "30": {
+      "value": "#ffffff1f",
+      "type": "color"
+    },
+    "40": {
+      "value": "#ffffff36",
+      "type": "color"
+    },
+    "50": {
+      "value": "#ffffff47",
+      "type": "color"
+    },
+    "60": {
+      "value": "#ffffff5c",
+      "type": "color"
+    },
+    "70": {
+      "value": "#ffffff73",
+      "type": "color"
+    },
+    "80": {
+      "value": "#ffffff8f",
+      "type": "color"
+    },
+    "90": {
+      "value": "#ffffffad",
+      "type": "color"
+    },
+    "95": {
+      "value": "#ffffffcc",
+      "type": "color"
+    },
+    "99": {
+      "value": "#ffffffe8",
+      "type": "color"
+    },
+    "100": {
+      "value": "#ffffff",
+      "type": "color"
+    }
+  },
   "neutral-variant": {
     "0": {
       "value": "#000000",
@@ -424,60 +478,6 @@
     },
     "99": {
       "value": "#fffbfd",
-      "type": "color"
-    },
-    "100": {
-      "value": "#ffffff",
-      "type": "color"
-    }
-  },
-  "neutral-inverse-transparent": {
-    "0": {
-      "value": "#ffffff00",
-      "type": "color"
-    },
-    "10": {
-      "value": "#ffffff05",
-      "type": "color"
-    },
-    "20": {
-      "value": "#ffffff14",
-      "type": "color"
-    },
-    "30": {
-      "value": "#ffffff1f",
-      "type": "color"
-    },
-    "40": {
-      "value": "#ffffff36",
-      "type": "color"
-    },
-    "50": {
-      "value": "#ffffff47",
-      "type": "color"
-    },
-    "60": {
-      "value": "#ffffff5c",
-      "type": "color"
-    },
-    "70": {
-      "value": "#ffffff73",
-      "type": "color"
-    },
-    "80": {
-      "value": "#ffffff8f",
-      "type": "color"
-    },
-    "90": {
-      "value": "#ffffffad",
-      "type": "color"
-    },
-    "95": {
-      "value": "#ffffffcc",
-      "type": "color"
-    },
-    "99": {
-      "value": "#ffffffe8",
       "type": "color"
     },
     "100": {
