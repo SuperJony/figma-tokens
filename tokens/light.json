@@ -13,15 +13,15 @@
       "type": "color"
     },
     "inverse-high": {
-      "value": "#ffffffeb",
+      "value": "#ffffffe8",
       "type": "color"
     },
     "inverse-medium": {
-      "value": "#ffffff8f",
+      "value": "#ffffff73",
       "type": "color"
     },
     "inverse-disabled": {
-      "value": "#ffffff3d",
+      "value": "#ffffff36",
       "type": "color"
     },
     "primary": {
@@ -176,7 +176,7 @@
         "type": "color"
       },
       "inverse-high": {
-        "value": "#ffffffeb",
+        "value": "#ffffffe8",
         "type": "color"
       }
     }
