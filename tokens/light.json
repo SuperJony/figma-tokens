@@ -104,6 +104,10 @@
     }
   },
   "overlay": {
+    "primary-lightest": {
+      "value": "#fe58251a",
+      "type": "color"
+    },
     "primary": {
       "value": "#fe5825cc",
       "type": "color"
