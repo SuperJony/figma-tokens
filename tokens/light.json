@@ -25,7 +25,7 @@
       "type": "color"
     },
     "primary": {
-      "value": "#fe5825",
+      "value": "#F4511E",
       "type": "color"
     },
     "secondary": {
@@ -69,7 +69,7 @@
       "type": "color"
     },
     "primary": {
-      "value": "#fe5825",
+      "value": "#F4511E",
       "type": "color"
     },
     "secondary": {
@@ -109,7 +109,7 @@
       "type": "color"
     },
     "primary": {
-      "value": "#fe5825cc",
+      "value": "#F4511Ecc",
       "type": "color"
     },
     "primary-darker": {
