@@ -13,7 +13,11 @@ jobs:
       # Transform Figma Tokens JSON to something Style Dictionary can read
       - run: npx token-transformer tokens.json tokens/light.json global,light global
 
+      - run: npx token-transformer tokens.json tokens/dark.json global,dark global
+
       - run: npx token-transformer tokens.json tokens/typography.json global,typography global
+
+      - run: npx token-transformer tokens.json tokens/number.json global,number global
 
       - run: npx token-transformer tokens.json tokens/global.json global light
 
