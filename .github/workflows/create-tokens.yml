@@ -17,9 +17,7 @@ jobs:
 
       - run: npx token-transformer tokens.json tokens/typography.json global,typography global
 
-      - run: npx token-transformer tokens.json tokens/number.json global,number global
-
-      - run: npx token-transformer tokens.json tokens/global.json global light
+      - run: npx token-transformer tokens.json tokens/palette.json global light,dark,typography
 
       # Convert tokens according to Style Dictionary config
       # - run: npx style-dictionary build --config config.json
