@@ -79,6 +79,86 @@
       }
     }
   },
+  "displayNum": {
+    "large": {
+      "fontFamily": {
+        "value": "Yuewen Font"
+      },
+      "fontWeight": {
+        "value": "Regular"
+      },
+      "lineHeight": {
+        "value": 76
+      },
+      "fontSize": {
+        "value": 64
+      },
+      "letterSpacing": {
+        "value": -0.5
+      },
+      "paragraphSpacing": {
+        "value": 0
+      },
+      "textCase": {
+        "value": "none"
+      },
+      "textDecoration": {
+        "value": "none"
+      }
+    },
+    "medium": {
+      "fontFamily": {
+        "value": "Yuewen Font"
+      },
+      "fontWeight": {
+        "value": "Regular"
+      },
+      "lineHeight": {
+        "value": 52
+      },
+      "fontSize": {
+        "value": 44
+      },
+      "letterSpacing": {
+        "value": 0.5
+      },
+      "paragraphSpacing": {
+        "value": 0
+      },
+      "textCase": {
+        "value": "none"
+      },
+      "textDecoration": {
+        "value": "none"
+      }
+    },
+    "small": {
+      "fontFamily": {
+        "value": "Yuewen Font"
+      },
+      "fontWeight": {
+        "value": "Regular"
+      },
+      "lineHeight": {
+        "value": 40
+      },
+      "fontSize": {
+        "value": 32
+      },
+      "letterSpacing": {
+        "value": 0.5
+      },
+      "paragraphSpacing": {
+        "value": 0
+      },
+      "textCase": {
+        "value": "none"
+      },
+      "textDecoration": {
+        "value": "none"
+      }
+    }
+  },
   "headline": {
     "large": {
       "fontFamily": {
@@ -138,6 +218,86 @@
       },
       "fontWeight": {
         "value": "Bold"
+      },
+      "lineHeight": {
+        "value": 24
+      },
+      "fontSize": {
+        "value": 20
+      },
+      "letterSpacing": {
+        "value": 0.5
+      },
+      "paragraphSpacing": {
+        "value": 0
+      },
+      "textCase": {
+        "value": "none"
+      },
+      "textDecoration": {
+        "value": "none"
+      }
+    }
+  },
+  "headlineNum": {
+    "large": {
+      "fontFamily": {
+        "value": "Yuewen Font"
+      },
+      "fontWeight": {
+        "value": "Regular"
+      },
+      "lineHeight": {
+        "value": 40
+      },
+      "fontSize": {
+        "value": 28
+      },
+      "letterSpacing": {
+        "value": 0.5
+      },
+      "paragraphSpacing": {
+        "value": 0
+      },
+      "textCase": {
+        "value": "none"
+      },
+      "textDecoration": {
+        "value": "none"
+      }
+    },
+    "medium": {
+      "fontFamily": {
+        "value": "Yuewen Font"
+      },
+      "fontWeight": {
+        "value": "Regular"
+      },
+      "lineHeight": {
+        "value": 28
+      },
+      "fontSize": {
+        "value": 24
+      },
+      "letterSpacing": {
+        "value": 0.5
+      },
+      "paragraphSpacing": {
+        "value": 0
+      },
+      "textCase": {
+        "value": "none"
+      },
+      "textDecoration": {
+        "value": "none"
+      }
+    },
+    "small": {
+      "fontFamily": {
+        "value": "Yuewen Font"
+      },
+      "fontWeight": {
+        "value": "Regular"
       },
       "lineHeight": {
         "value": 24
@@ -239,6 +399,86 @@
       }
     }
   },
+  "titleNum": {
+    "large": {
+      "fontFamily": {
+        "value": "Yuewen Font"
+      },
+      "fontWeight": {
+        "value": "Regular"
+      },
+      "lineHeight": {
+        "value": 22
+      },
+      "fontSize": {
+        "value": 18
+      },
+      "letterSpacing": {
+        "value": 0.15
+      },
+      "paragraphSpacing": {
+        "value": 0
+      },
+      "textCase": {
+        "value": "none"
+      },
+      "textDecoration": {
+        "value": "none"
+      }
+    },
+    "medium": {
+      "fontFamily": {
+        "value": "Yuewen Font"
+      },
+      "fontWeight": {
+        "value": "Regular"
+      },
+      "lineHeight": {
+        "value": 20
+      },
+      "fontSize": {
+        "value": 16
+      },
+      "letterSpacing": {
+        "value": 0.15
+      },
+      "paragraphSpacing": {
+        "value": 0
+      },
+      "textCase": {
+        "value": "none"
+      },
+      "textDecoration": {
+        "value": "none"
+      }
+    },
+    "small": {
+      "fontFamily": {
+        "value": "Yuewen Font"
+      },
+      "fontWeight": {
+        "value": "Regular"
+      },
+      "lineHeight": {
+        "value": 18
+      },
+      "fontSize": {
+        "value": 14
+      },
+      "letterSpacing": {
+        "value": 0.1
+      },
+      "paragraphSpacing": {
+        "value": 0
+      },
+      "textCase": {
+        "value": "none"
+      },
+      "textDecoration": {
+        "value": "none"
+      }
+    }
+  },
   "label": {
     "large": {
       "fontFamily": {
@@ -298,6 +538,86 @@
       },
       "fontWeight": {
         "value": "Medium"
+      },
+      "lineHeight": {
+        "value": 16
+      },
+      "fontSize": {
+        "value": 11
+      },
+      "letterSpacing": {
+        "value": 0.5
+      },
+      "paragraphSpacing": {
+        "value": 0
+      },
+      "textCase": {
+        "value": "none"
+      },
+      "textDecoration": {
+        "value": "none"
+      }
+    }
+  },
+  "labelNum": {
+    "large": {
+      "fontFamily": {
+        "value": "Yuewen Font"
+      },
+      "fontWeight": {
+        "value": "Regular"
+      },
+      "lineHeight": {
+        "value": 18
+      },
+      "fontSize": {
+        "value": 14
+      },
+      "letterSpacing": {
+        "value": 0.1
+      },
+      "paragraphSpacing": {
+        "value": 0
+      },
+      "textCase": {
+        "value": "none"
+      },
+      "textDecoration": {
+        "value": "none"
+      }
+    },
+    "medium": {
+      "fontFamily": {
+        "value": "Yuewen Font"
+      },
+      "fontWeight": {
+        "value": "Regular"
+      },
+      "lineHeight": {
+        "value": 16
+      },
+      "fontSize": {
+        "value": 12
+      },
+      "letterSpacing": {
+        "value": 0.5
+      },
+      "paragraphSpacing": {
+        "value": 0
+      },
+      "textCase": {
+        "value": "none"
+      },
+      "textDecoration": {
+        "value": "none"
+      }
+    },
+    "small": {
+      "fontFamily": {
+        "value": "Yuewen Font"
+      },
+      "fontWeight": {
+        "value": "Regular"
       },
       "lineHeight": {
         "value": 16
@@ -401,6 +721,86 @@
     "small": {
       "fontFamily": {
         "value": "Roboto"
+      },
+      "fontWeight": {
+        "value": "Regular"
+      },
+      "lineHeight": {
+        "value": 16
+      },
+      "fontSize": {
+        "value": 12
+      },
+      "letterSpacing": {
+        "value": 0
+      },
+      "paragraphSpacing": {
+        "value": 0
+      },
+      "textCase": {
+        "value": "none"
+      },
+      "textDecoration": {
+        "value": "none"
+      }
+    }
+  },
+  "bodyNum": {
+    "large": {
+      "fontFamily": {
+        "value": "Yuewen Font"
+      },
+      "fontWeight": {
+        "value": "Regular"
+      },
+      "lineHeight": {
+        "value": 24
+      },
+      "fontSize": {
+        "value": 16
+      },
+      "letterSpacing": {
+        "value": 0.5
+      },
+      "paragraphSpacing": {
+        "value": 0
+      },
+      "textCase": {
+        "value": "none"
+      },
+      "textDecoration": {
+        "value": "none"
+      }
+    },
+    "medium": {
+      "fontFamily": {
+        "value": "Yuewen Font"
+      },
+      "fontWeight": {
+        "value": "Regular"
+      },
+      "lineHeight": {
+        "value": 20
+      },
+      "fontSize": {
+        "value": 14
+      },
+      "letterSpacing": {
+        "value": 0.25
+      },
+      "paragraphSpacing": {
+        "value": 0
+      },
+      "textCase": {
+        "value": "none"
+      },
+      "textDecoration": {
+        "value": "none"
+      }
+    },
+    "small": {
+      "fontFamily": {
+        "value": "Yuewen Font"
       },
       "fontWeight": {
         "value": "Regular"
@@ -531,6 +931,60 @@
       }
     }
   },
+  "extensionNum": {
+    "overline": {
+      "fontFamily": {
+        "value": "Yuewen Font"
+      },
+      "fontWeight": {
+        "value": "Regular"
+      },
+      "lineHeight": {
+        "value": 16
+      },
+      "fontSize": {
+        "value": 12
+      },
+      "letterSpacing": {
+        "value": 1.5
+      },
+      "paragraphSpacing": {
+        "value": 0
+      },
+      "textCase": {
+        "value": "uppercase"
+      },
+      "textDecoration": {
+        "value": "none"
+      }
+    },
+    "addition": {
+      "fontFamily": {
+        "value": "Yuewen Font"
+      },
+      "fontWeight": {
+        "value": "Regular"
+      },
+      "lineHeight": {
+        "value": 14
+      },
+      "fontSize": {
+        "value": 10
+      },
+      "letterSpacing": {
+        "value": 0
+      },
+      "paragraphSpacing": {
+        "value": 0
+      },
+      "textCase": {
+        "value": "none"
+      },
+      "textDecoration": {
+        "value": "none"
+      }
+    }
+  },
   "button": {
     "medium": {
       "fontFamily": {
@@ -564,6 +1018,60 @@
       },
       "fontWeight": {
         "value": "Medium"
+      },
+      "lineHeight": {
+        "value": 16
+      },
+      "fontSize": {
+        "value": 12
+      },
+      "letterSpacing": {
+        "value": 1
+      },
+      "paragraphSpacing": {
+        "value": 0
+      },
+      "textCase": {
+        "value": "uppercase"
+      },
+      "textDecoration": {
+        "value": "none"
+      }
+    }
+  },
+  "buttonNum": {
+    "medium": {
+      "fontFamily": {
+        "value": "Yuewen Font"
+      },
+      "fontWeight": {
+        "value": "Regular"
+      },
+      "lineHeight": {
+        "value": 16
+      },
+      "fontSize": {
+        "value": 14
+      },
+      "letterSpacing": {
+        "value": 1.25
+      },
+      "paragraphSpacing": {
+        "value": 0
+      },
+      "textCase": {
+        "value": "uppercase"
+      },
+      "textDecoration": {
+        "value": "none"
+      }
+    },
+    "small": {
+      "fontFamily": {
+        "value": "Yuewen Font"
+      },
+      "fontWeight": {
+        "value": "Regular"
       },
       "lineHeight": {
         "value": 16
