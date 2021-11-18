@@ -40,7 +40,7 @@
         "value": 44
       },
       "letterSpacing": {
-        "value": 0
+        "value": 0.5
       },
       "paragraphSpacing": {
         "value": 0
@@ -377,7 +377,7 @@
         "value": "Roboto"
       },
       "fontWeight": {
-        "value": "Italic"
+        "value": "Regular Italic"
       },
       "lineHeight": {
         "value": 20
@@ -437,7 +437,7 @@
         "value": 16
       },
       "fontSize": {
-        "value": 10
+        "value": 12
       },
       "letterSpacing": {
         "value": 1.5
@@ -518,7 +518,7 @@
         "value": 24
       },
       "letterSpacing": {
-        "value": 0.5
+        "value": 0
       },
       "paragraphSpacing": {
         "value": 0
@@ -529,113 +529,113 @@
       "textDecoration": {
         "value": "none"
       }
-    },
-    "button": {
-      "medium": {
-        "fontFamily": {
-          "value": "Roboto"
-        },
-        "fontWeight": {
-          "value": "Bold"
-        },
-        "lineHeight": {
-          "value": 16
-        },
-        "fontSize": {
-          "value": 14
-        },
-        "letterSpacing": {
-          "value": 1.25
-        },
-        "paragraphSpacing": {
-          "value": 0
-        },
-        "textCase": {
-          "value": "uppercase"
-        },
-        "textDecoration": {
-          "value": "none"
-        }
+    }
+  },
+  "button": {
+    "medium": {
+      "fontFamily": {
+        "value": "Roboto"
       },
-      "small": {
-        "fontFamily": {
-          "value": "Roboto"
-        },
-        "fontWeight": {
-          "value": "Bold"
-        },
-        "lineHeight": {
-          "value": 16
-        },
-        "fontSize": {
-          "value": 12
-        },
-        "letterSpacing": {
-          "value": 1
-        },
-        "paragraphSpacing": {
-          "value": 0
-        },
-        "textCase": {
-          "value": "uppercase"
-        },
-        "textDecoration": {
-          "value": "none"
-        }
+      "fontWeight": {
+        "value": "Medium"
+      },
+      "lineHeight": {
+        "value": 16
+      },
+      "fontSize": {
+        "value": 14
+      },
+      "letterSpacing": {
+        "value": 1.25
+      },
+      "paragraphSpacing": {
+        "value": 0
+      },
+      "textCase": {
+        "value": "uppercase"
+      },
+      "textDecoration": {
+        "value": "none"
       }
     },
-    "reader": {
-      "headline": {
-        "fontFamily": {
-          "value": "Lora"
-        },
-        "fontWeight": {
-          "value": "Medium"
-        },
-        "lineHeight": {
-          "value": 32
-        },
-        "fontSize": {
-          "value": 24
-        },
-        "letterSpacing": {
-          "value": 0.5
-        },
-        "paragraphSpacing": {
-          "value": 16
-        },
-        "textCase": {
-          "value": "none"
-        },
-        "textDecoration": {
-          "value": "none"
-        }
+    "small": {
+      "fontFamily": {
+        "value": "Roboto"
       },
-      "body": {
-        "fontFamily": {
-          "value": "Lora"
-        },
-        "fontWeight": {
-          "value": "Regular"
-        },
-        "lineHeight": {
-          "value": 30.6
-        },
-        "fontSize": {
-          "value": 18
-        },
-        "letterSpacing": {
-          "value": 0.2
-        },
-        "paragraphSpacing": {
-          "value": 12
-        },
-        "textCase": {
-          "value": "none"
-        },
-        "textDecoration": {
-          "value": "none"
-        }
+      "fontWeight": {
+        "value": "Medium"
+      },
+      "lineHeight": {
+        "value": 16
+      },
+      "fontSize": {
+        "value": 12
+      },
+      "letterSpacing": {
+        "value": 1
+      },
+      "paragraphSpacing": {
+        "value": 0
+      },
+      "textCase": {
+        "value": "uppercase"
+      },
+      "textDecoration": {
+        "value": "none"
+      }
+    }
+  },
+  "reader": {
+    "headline": {
+      "fontFamily": {
+        "value": "Lora"
+      },
+      "fontWeight": {
+        "value": "Medium"
+      },
+      "lineHeight": {
+        "value": 32
+      },
+      "fontSize": {
+        "value": 24
+      },
+      "letterSpacing": {
+        "value": 0.5
+      },
+      "paragraphSpacing": {
+        "value": 16
+      },
+      "textCase": {
+        "value": "none"
+      },
+      "textDecoration": {
+        "value": "none"
+      }
+    },
+    "body": {
+      "fontFamily": {
+        "value": "Lora"
+      },
+      "fontWeight": {
+        "value": "Regular"
+      },
+      "lineHeight": {
+        "value": 30
+      },
+      "fontSize": {
+        "value": 18
+      },
+      "letterSpacing": {
+        "value": 0.2
+      },
+      "paragraphSpacing": {
+        "value": 12
+      },
+      "textCase": {
+        "value": "none"
+      },
+      "textDecoration": {
+        "value": "none"
       }
     }
   }
