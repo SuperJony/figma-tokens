@@ -32,7 +32,7 @@ jobs:
 
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: ${{ github.event.head_commit.message }}
+          commit_message: ${{ github.event.commits[0].message }}
 
       - name: Qywx Bot Action
         uses: zcong1993/actions-qywx-bot@v1.0.0
@@ -44,7 +44,7 @@ jobs:
             {
               "msgtype": "text",
               "text": {
-                  "content": "🎉设计资源更新了🎉\n \n更新信息：${{ github.event.head_commit.message }} \n更新链接：${{ github.event.head_commit.url }}",
+                  "content": "🎉设计资源更新了🎉\n \n更新信息：${{ github.event.commits[0].message }} \n更新链接：${{ github.event.commits[0].url }}",
                   "mentioned_list":["@all"]
               }
             }
