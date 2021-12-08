@@ -23,6 +23,22 @@ jobs:
       # - run: npx style-dictionary build --config config.json
 
       # Add files that were created during a run, e.g. created files from style dictionary or token-transformer.
-      - uses: stefanzweifel/git-auto-commit-action@v4
+      
+      # - uses: stefanzweifel/git-auto-commit-action@v4
+      #   with:
+      #     commit_message: Update Tokens
+
+      - name: Qywx Bot Action
+        uses: zcong1993/actions-qywx-bot@v1.0.0
         with:
-          commit_message: Update Tokens
+          # 企业微信 key
+          key: ${{secrets.WEBHOOK_KEY}}
+          # 消息体
+          body: |
+            {
+              "msgtype": "text",
+              "text": {
+                  "content": "🎉设计资源更新了🎉\n \n更新信息：${{ github.event.head_commit.message }} \n更新链接：${{ github.event.head_commit.url }}",
+                  "mentioned_list":["@all"]
+              }
+            }
