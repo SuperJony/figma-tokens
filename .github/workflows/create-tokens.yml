@@ -5,7 +5,7 @@ on:
       - main
     # file paths to consider in the event. Optional; defaults to all.
     paths:
-      - tokens/**
+      - tokens.json
 
 jobs:
   build:
@@ -30,9 +30,9 @@ jobs:
 
       # Add files that were created during a run, e.g. created files from style dictionary or token-transformer.
 
-      # - uses: stefanzweifel/git-auto-commit-action@v4
-      #   with:
-      #     commit_message: Update Tokens
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: ${{ github.event.head_commit.message }}
 
       - name: Qywx Bot Action
         uses: zcong1993/actions-qywx-bot@v1.0.0
