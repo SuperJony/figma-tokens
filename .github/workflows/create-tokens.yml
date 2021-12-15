@@ -34,17 +34,4 @@ jobs:
         with:
           commit_message: ${{ github.event.commits[0].message }}
 
-      - name: Qywx Bot Action
-        uses: zcong1993/actions-qywx-bot@v1.0.0
-        with:
-          # 企业微信 key
-          key: ${{secrets.WEBHOOK_KEY}}
-          # 消息体
-          body: |
-            {
-              "msgtype": "text",
-              "text": {
-                  "content": "🎉设计资源更新了🎉\n \n更新信息：${{ github.event.commits[0].message }} \n更新链接：${{ github.event.commits[0].url }}",
-                  "mentioned_list":["@all"]
-              }
-            }
+      
