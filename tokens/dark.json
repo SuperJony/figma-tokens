@@ -34,11 +34,11 @@
       "description": "safe color"
     },
     "tertiary": {
-      "value": "#d3bbff",
+      "value": "#a576ff",
       "type": "color"
     },
     "negative": {
-      "value": "#ff897a",
+      "value": "#ff5449",
       "type": "color",
       "description": "mistake color"
     },
@@ -77,7 +77,7 @@
       "type": "color"
     },
     "tertiary": {
-      "value": "#d3bbff",
+      "value": "#8959e8",
       "type": "color"
     },
     "stateDisabled": {
